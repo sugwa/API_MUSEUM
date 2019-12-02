@@ -34,7 +34,9 @@
 Azure-语音理解API：将音频流转录为应用程序可以向用户显示或作为输入操作的文本。
 
 # 本产品主要运用的AI功能如下
+
 [阿里云-智能语音交互API-一句话识别服务](https://ai.aliyun.com/nls/asr?spm=5176.233916.1243091.9.b7d418f01fZwRa)
+
 [Azure-语言理解API](https://www.azure.cn/zh-cn/home/features/cognitive-services/language-understanding-intelligent-service)
 
 # 人工智能概率性
