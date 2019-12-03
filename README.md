@@ -122,3 +122,13 @@ Azure-语音识别API：将音频转录为可操作的文本。
 **后期运营**
 用户进入稳定期后，我们可以根据不同的时间点或者是节假日推出一些特定的活动，和在吸取用户建议和意见后对APP进行更新和完善，吸引用户继续使用我们
 的软件。
+
+# 清单
+**本产品所用AI功能python代码如下：**
+
+[阿里云-智能语音交互API-一句话识别服务](https://help.aliyun.com/document_detail/120693.html?spm=a2c4g.11186623.6.569.57972d0d0r95Km)
+
+[Azure-语言理解API](https://docs.microsoft.com/zh-cn/python/api/overview/azure/cognitive-services?view=azure-python)
+
+[Azure-语音识别API](https://docs.microsoft.com/zh-cn/python/api/overview/azure/cognitive-services?view=azure-python)
+
